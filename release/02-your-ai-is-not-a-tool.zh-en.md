@@ -1,6 +1,6 @@
 # 你的 AI 不是工具 / Your AI Is Not a Tool
 
-> 中文为当下索引的通俗编译，英文为该编译的对照回译（尽量贴合 Sacasas 原文用词），逐段对齐。
+> 中文为知觉之门的通俗编译，英文为该编译的对照回译（尽量贴合 Sacasas 原文用词），逐段对齐。
 > Sacasas 原文全文另见 `02-your-ai-is-not-a-tool.en.md`，本文件不替代原文。
 > Chinese: a plain-language adaptation. English: a back-rendering of that adaptation, kept close to Sacasas's original wording, aligned paragraph by paragraph. The full original is in `02-your-ai-is-not-a-tool.en.md`.
 

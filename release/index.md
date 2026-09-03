@@ -1,4 +1,4 @@
-# 当下索引
+# 知觉之门 · The Doors
 
 - [AI 越聪明,我们为什么越要警惕?](01-what-limits-ai.md)
 - [你的 AI 不是工具](02-your-ai-is-not-a-tool.md)
