@@ -5,7 +5,7 @@
 
 ---
 
-![同一张照片,右边经过高强度 JPEG 压缩:细节糊掉了,但你一眼看不出它错在哪里。](03-chatgpt-is-a-blurry-jpeg.jpg)
+![同一张猫的照片,压缩强度从右往左递增。左半边已经糊成一块块——信息丢掉了,找不回来。](03-chatgpt-is-a-blurry-jpeg.png)
 
 2013 年,德国一家建筑公司发现复印机出了怪事:复印一张房屋平面图,三个房间原本各标着面积——14.13、21.11、17.42 平方米——复印出来,三个全变成了 14.13。
 
@@ -81,4 +81,4 @@
 
 ---
 
-配图:长尾阔嘴鸟原图 by JJ Harrison,压缩对比图 by Ibrahim.ID,来自 Wikimedia Commons,CC BY-SA 3.0。
+配图:原图 Michael Gäbler,压缩渐变处理 AzaToth,来自 Wikimedia Commons,CC BY 3.0。
