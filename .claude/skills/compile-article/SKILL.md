@@ -102,7 +102,7 @@ ffmpeg -i in.jpg -vf "crop='min(iw,ih*3/4)':'min(ih,iw*4/3)',scale=1080:1440" -q
 
 ## 第 6 步:更新索引
 
-在 `release/index.md` 末尾加一行:`- [标题](NN-<slug>.md)`。只有题目。
+在 `release/index.md` 末尾加一行:`- [NN-标题](NN-<slug>.md)`。链接文字是"编号-标题"。
 
 ## 提交
 
