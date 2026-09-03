@@ -4,7 +4,7 @@
 fikgol 原创,开篇专题。
 智子锁死的是反馈回路;AI 最接近的限制,是被截断或从未建立的外部校验。
 
-**02 · [你的 AI 不是工具](02-your-ai-is-not-a-tool.md)**（[中英对照](02-your-ai-is-not-a-tool.zh-en.md)）
+**02 · [你的 AI 不是工具](02-your-ai-is-not-a-tool.md)**
 编译自 L. M. Sacasas,《Your AI Is Not a Tool》,The Convivial Society,2026。
 AI 不是你能放下的工具,是一个从里往外改变你的环境——小心用也躲不开。
 
