@@ -4,3 +4,4 @@
 - [02-你的 AI 不是工具](02-your-ai-is-not-a-tool.md)
 - [03-ChatGPT 是整个互联网的一张模糊照片](03-chatgpt-is-a-blurry-jpeg.md)
 - [04-在 AI 时代坚持自我](04-choosing-to-stay-human.md)
+- [05-和 AI 谈恋爱,算不算出轨](05-secret-ai-companions.md)
