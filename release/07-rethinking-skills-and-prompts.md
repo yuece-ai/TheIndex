@@ -1,4 +1,4 @@
-# 换上 GPT-6 Astra,重新梳理你的 skill 和提示词
+# GPT-6 来了,你给 AI 攒的那些指令该删一批了
 
 > 翻译自 Eric Provencher(@pvncher,OpenAI Codex DX)2026-09-04 发在 X 上的文章《Rethinking skills and prompts for GPT-6 Astra》。这是"前沿从业者怎么说"栏目,面向已经在用编程 agent 的人,术语不做通俗化处理。
 
