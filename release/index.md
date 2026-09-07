@@ -6,3 +6,4 @@
 - [04-在 AI 时代坚持自我](04-choosing-to-stay-human.md)
 - [05-和 AI 谈恋爱,算不算出轨](05-secret-ai-companions.md)
 - [06-你的 AI 为啥总掉链子](06-why-long-tasks-break-ai.md)
+- [07-换上 GPT-6 Astra,重新梳理你的 skill 和提示词](07-rethinking-skills-and-prompts.md)
