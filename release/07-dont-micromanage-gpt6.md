@@ -1,6 +1,6 @@
 # OpenAI 核心团队劝退：别微操 GPT-6，它比你更懂怎么干活
 
-![封面](09-dont-micromanage-gpt6.jpg)
+![封面](07-dont-micromanage-gpt6.jpg)
 
 前几天（2026 年 9 月 4 日），OpenAI Codex 团队的核心成员 **Eric Provencher（@pvncher）** 在 X 上发了一篇长文。
 
