@@ -7,3 +7,4 @@
 - [05-和 AI 谈恋爱,算不算出轨](05-secret-ai-companions.md)
 - [06-你的 AI 为啥总掉链子](06-why-long-tasks-break-ai.md)
 - [07-GPT-6 Astra 来了,重新设计你的 skill 和 prompt](07-rethinking-skills-and-prompts.md)
+- [08-OpenAI 首席科学家发长文预警:机器已成"异星心智",行业必须自愿降速](08-an-alien-mind.md)
